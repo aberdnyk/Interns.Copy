@@ -18,7 +18,7 @@ UNHCR Attica Mapping Process
 **OpenStreetMap**
 
 
-| **OpenStreetMap** |
+| OpenStreetMap |
 | Username | Password |
 ---------- | -------- |
 | unhcr_attica | unhcr_mapping | 
