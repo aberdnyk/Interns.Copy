@@ -3,7 +3,7 @@ UNHCR Attica Mapping Process
 
 ## Collecting GPS Data
 
-#### Before data collection
+### Before data collection
 
 1. Charge your phone to 100%
 2. Install OSMTracker from the Google Play Store if it's not already installed
@@ -12,7 +12,7 @@ UNHCR Attica Mapping Process
 5. Put on plenty of sunscreen, a hat, and sunglasses because you're going to be very exposed in the sun
 
 
-#### During data collection
+### During data collection
 
 This stage should take 1-2 hours for one person to do in an average sized camp. 
 Larger camps and smaller camps may take more / less time, respectively.
@@ -37,7 +37,7 @@ photo
 11. When you're done, press the "Save" button that looks like an old-fashioned floppy disk. 
 photo
 
-#### After data collection : submitting GPS data
+### After data collection : submitting GPS data
 
 Upload the collected data when you're finished collecting. You can do this back at the office if you don't have WiFi or a data connection in the field.
 
@@ -54,7 +54,7 @@ photo
 
 ## Collecting Field Papers data
 
-#### Before data collection
+### Before data collection
 
 1. Go to the page for each camp. Click "Refresh" in the top right corner.
 
@@ -68,7 +68,7 @@ photo
 )
 * Or contact the mapping team for a new atlas
 
-#### During data collection
+### During data collection
 
 **Basic process**
 
@@ -124,7 +124,7 @@ Clearly label which camp is being mapped on the Field Paper and notebook page(s)
 
 _If there are translations_ : Clearly label which language the inputs are being translated into. Spell out the translation in the native character set, Greek characters and Roman characters if possible.
 
-#### After data collection : submitting Field Papers data
+### After data collection : submitting Field Papers data
 
 At the office, scan each field paper and the corresponding notebook page(s). *Make sure to clearly label which notebook page belongs with which field paper.*
 
@@ -138,7 +138,7 @@ Check your email! The mapping team may have questions about words they can't rea
 
 ## Notes
 
-#### Mapping team contact information
+### Mapping team contact information
 
 | Person | Role | Email |
 ---------| ---- | ----- |
@@ -146,7 +146,7 @@ Check your email! The mapping team may have questions about words they can't rea
 | Helen Brown | OpenStreetMap Mapping Intern| hbrown14@gwmail.gwu.edu |
 | Andrii Berdnyk | OpenStreetMap Mapping Intern | aberdnyk@gwu.edu | 
 
-#### Field Papers Atlas Pages
+### Field Papers Atlas Pages
 
 | Camp | Field Papers Page |
 ------ | ----------------- |
@@ -163,7 +163,7 @@ Check your email! The mapping team may have questions about words they can't rea
 | Shisto |      |
 | Shisto |      |
 
-#### Important account information
+### Important account information
 
 **Field Papers**
 
