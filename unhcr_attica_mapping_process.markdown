@@ -1,6 +1,10 @@
 UNHCR Attica Mapping Process
 ==============
 
+## Workflow Breakdown
+
+<img width="919" alt="Field Papers Example 1" src="https://cloud.githubusercontent.com/assets/1583376/16880365/8ee96370-4abd-11e6-98f6-698cecde77d8.png">
+
 ## Collecting GPS Data
 
 ### Before data collection
