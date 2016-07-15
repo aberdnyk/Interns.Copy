@@ -19,5 +19,6 @@ UNHCR Attica Mapping Process
 
 **Field Papers**
 
-| *Username:* | unhcr_attica |
-| *Password:* | unhcr_mapping | 
+| Username | Password |
+---------- | -------- |
+| unhcr_attica | unhcr_mapping | 
