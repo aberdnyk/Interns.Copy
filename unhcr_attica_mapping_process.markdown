@@ -9,13 +9,15 @@ UNHCR Attica Mapping Process
 
 **Gmail**
 
-| *Username:* | unhcr.attica.maps@gmail.com |
-| *Password:* | unhcr_mapping |
+| Username | Password |
+---------- | -------- |
+| unhcr.attica.maps@gmail.com | unhcr_mapping |
 
 **OpenStreetMap**
 
-| *Username:* | unhcr_attica |
-| *Password:* | unhcr_mapping |
+| Username | Password |
+---------- | -------- |
+| unhcr_attica | unhcr_mapping | 
 
 **Field Papers**
 
