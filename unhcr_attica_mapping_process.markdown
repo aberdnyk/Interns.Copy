@@ -3,11 +3,54 @@ UNHCR Attica Mapping Process
 
 ## Collecting GPS Data
 
+#### Before data collection
 
+1. Charge your phone to 100%
+2. Install OSMTracker from the Google Play Store if it's not already installed
+3. Turn on Location on your phone
+4. Turn on WiFi on your phone
+5. Put on plenty of sunscreen, a hat, and sunglasses because you're going to be very exposed in the sun
+
+
+#### During data collection
+
+This stage should take 1-2 hours for one person to do in an average sized camp. 
+Larger camps and smaller camps may take more / less time, respectively.
+GPS data collection can be done offline, although a data plan can help the GPS accuracy.
+
+1. Stand at the entrance to the camp in a place not covered by trees or a roof.
+2. Load OSMTracker
+3. Click the **+** button to start tracking
+4. OSMTracker will say "Waiting for a GPX fix to enable buttons". When it has a fix you will be able to select buttons and the "Accuracy" tab will show an accuracy in meters.
+5. If you are walking on a road navigable by car select Way --> Service
+photo
+6. If you are walking on a path select Track --> Path
+photo
+7. Walk down **the center** of _every_ road and path in the camp. This could take a while!
+8. Every time you reach a junction (where roads / paths come together), press the button for Service / Path to record that junction. This is important for connecting your roads together after.
+photo
+9. Take photos regularly while walking. This gives your remote mappers an idea what the area looks like, which helps accurate mapping. The photos should be of buildings, roads, major infrastructure, etc. Not of people!
+photo
+10. When you arrive at a toilet, office or other major piece of infrastructure lick the Misc/Amenity/Amenity+ button and select the appropriate feature type. If the type doesn't exist, select "Text Note" and type in the feature information.
+photo
+photo
+11. When you're done, press the "Save" button that looks like an old-fashioned floppy disk. 
+photo
 
 #### After data collection : submitting GPS data
 
+Upload the collected data when you're finished collecting. You can do this back at the office if you don't have WiFi or a data connection in the field.
 
+1. Select the track you just created.
+2. Go to the options button on the top right
+photo
+3. Click "OpenStreetMap Upload"
+photo
+4. If this is your first time, log in to the UNHCR OSM account (see end of this note for login details).
+photo
+5. Enter the name of the camp on the top row, the name of the camp + the data on the Description (middle) row and _atticacamps_ on the Tag (bottom) row
+6. Change the setting to Public
+7. Click "Save and Upload"
 
 ## Collecting Field Papers data
 
@@ -36,7 +79,11 @@ UNHCR Attica Mapping Process
 
 **Example Field Papers Atlases**
 
+<img width="919" alt="Field Papers Example 1" src="https://cloud.githubusercontent.com/assets/1583376/16869514/d9346be2-4a85-11e6-8b20-d4d476c69b3e.png">
 
+<img width="919" alt="Field Papers Example 2" src="https://cloud.githubusercontent.com/assets/1583376/16869553/0e285a48-4a86-11e6-9278-17dcc18785a7.png">
+
+<img width="919" alt="Field Papers Example 3" src="https://cloud.githubusercontent.com/assets/1583376/16869562/12b068da-4a86-11e6-80bb-f1c40b32e1ba.png">
 
 **Example Notebook entries**
 
