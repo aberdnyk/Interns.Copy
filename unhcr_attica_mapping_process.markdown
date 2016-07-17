@@ -1,15 +1,6 @@
 UNHCR Attica Mapping Process
 ==============
 
-<style type="text/css">
-.centerImage
-{
-text-align:center;
-display:block;
-}
-</style>
-
-
 ## Workflow Breakdown
 
 <img class="centerImage" width="919" alt="Workflow Graphic" src="https://cloud.githubusercontent.com/assets/1583376/16880365/8ee96370-4abd-11e6-98f6-698cecde77d8.png">
