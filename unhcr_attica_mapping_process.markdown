@@ -26,15 +26,15 @@ GPS data collection can be done offline, although a data plan can help the GPS a
 3. Click the **+** button to start tracking
 4. OSMTracker will say "Waiting for a GPX fix to enable buttons". When it has a fix you will be able to select buttons and the "Accuracy" tab will show an accuracy in meters.
 
-<img width=25% alt="GPS Fix" aligh="middle" src="https://cloud.githubusercontent.com/assets/1583376/16880418/d1ba55d8-4abd-11e6-9248-e21e43159d84.png">
+<img width=25% alt="GPS Fix" align="middle" src="https://cloud.githubusercontent.com/assets/1583376/16880418/d1ba55d8-4abd-11e6-9248-e21e43159d84.png">
 
 5. If you are walking on a road navigable by car select Way --> Service
 
-<img width=25% alt="Service" aligh="middle" src="https://cloud.githubusercontent.com/assets/1583376/16880420/d1bb582a-4abd-11e6-9342-f8e951d11e44.png">
+<img width=25% alt="Service" align="middle" src="https://cloud.githubusercontent.com/assets/1583376/16880420/d1bb582a-4abd-11e6-9342-f8e951d11e44.png">
 
 6. If you are walking on a path select Track --> Footway
 
-<img width=25% alt="Footway" aligh="middle" src="https://cloud.githubusercontent.com/assets/1583376/16880418/d1ba55d8-4abd-11e6-9248-e21e43159d84.png">
+<img width=25% alt="Footway" align="middle" src="https://cloud.githubusercontent.com/assets/1583376/16880418/d1ba55d8-4abd-11e6-9248-e21e43159d84.png">
 
 7. Walk down **the center** of _every_ road and path in the camp. This could take a while!
 8. Every time you reach a junction (where roads / paths come together), press the button for Service / Path to record that junction. This is important for connecting your roads together after.
@@ -43,13 +43,13 @@ photo
 
 10. When you arrive at a toilet, office or other major piece of infrastructure lick the Misc/Amenity/Amenity+ button and select the appropriate feature type. If the type doesn't exist, select "Text Note" and type in the feature information.
 
-<img width=25% alt="Toilets" aligh="middle" src="https://cloud.githubusercontent.com/assets/1583376/16880423/d1e2cea0-4abd-11e6-91dc-764330d204be.png">
-<img width=25% alt="Water etc" aligh="middle" src="https://cloud.githubusercontent.com/assets/1583376/16880422/d1bfb6a4-4abd-11e6-922d-83d6b523a861.png">
-<img width=25% alt="Text Note" aligh="middle" src="https://cloud.githubusercontent.com/assets/1583376/16880424/d1efe1d0-4abd-11e6-93eb-88b9c736ccfb.png">
+<img width=25% alt="Toilets" align="middle" src="https://cloud.githubusercontent.com/assets/1583376/16880423/d1e2cea0-4abd-11e6-91dc-764330d204be.png">
+<img width=25% alt="Water etc" align="middle" src="https://cloud.githubusercontent.com/assets/1583376/16880422/d1bfb6a4-4abd-11e6-922d-83d6b523a861.png">
+<img width=25% alt="Text Note" align="middle" src="https://cloud.githubusercontent.com/assets/1583376/16880424/d1efe1d0-4abd-11e6-93eb-88b9c736ccfb.png">
 
 11. When you're done, press the "Save" button that looks like an old-fashioned floppy disk.
 
-<img width=25% alt="Save button" aligh="middle" src="https://cloud.githubusercontent.com/assets/1583376/16900169/977c70d6-4c25-11e6-9d8c-9318445b5e47.png">
+<img width=25% alt="Save button" align="middle" src="https://cloud.githubusercontent.com/assets/1583376/16900169/977c70d6-4c25-11e6-9d8c-9318445b5e47.png">
 
 ### After data collection : submitting GPS data
 
@@ -58,11 +58,11 @@ Upload the collected data when you're finished collecting. You can do this back 
 1. Select the track you just created.
 2. Go to the options button on the top right
 
-<img width=25% alt="Options" aligh="middle" src="https://cloud.githubusercontent.com/assets/1583376/16880413/d182c640-4abd-11e6-9f44-9a79fec145a3.png">
+<img width=25% alt="Options" align="middle" src="https://cloud.githubusercontent.com/assets/1583376/16880413/d182c640-4abd-11e6-9f44-9a79fec145a3.png">
 
 3. Click "OpenStreetMap Upload"
 
-<img width=25% alt="OSM Upload" aligh="middle" src="https://cloud.githubusercontent.com/assets/1583376/16880413/d182c640-4abd-11e6-9f44-9a79fec145a3.png">
+<img width=25% alt="OSM Upload" align="middle" src="https://cloud.githubusercontent.com/assets/1583376/16880413/d182c640-4abd-11e6-9f44-9a79fec145a3.png">
 
 4. If this is your first time, log in to the UNHCR OSM account (see end of this note for login details).
 
@@ -70,7 +70,7 @@ Upload the collected data when you're finished collecting. You can do this back 
 
 6. Change the sharing setting from Private to Public
 
-<img width=25% alt="Data entry and public setting" aligh="middle" src="https://cloud.githubusercontent.com/assets/1583376/16880417/d1afc0f0-4abd-11e6-9063-bffff122ae72.png">
+<img width=25% alt="Data entry and public setting" align="middle" src="https://cloud.githubusercontent.com/assets/1583376/16880417/d1afc0f0-4abd-11e6-9063-bffff122ae72.png">
 
 7. Click "Save and Upload"
 
