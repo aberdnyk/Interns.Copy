@@ -1,9 +1,18 @@
 UNHCR Attica Mapping Process
 ==============
 
+<style type="text/css">
+.centerImage
+{
+text-align:center;
+display:block;
+}
+</style>
+
+
 ## Workflow Breakdown
 
-<p style="text-align:center;"><img width="919" alt="Field Papers Example 1" src="https://cloud.githubusercontent.com/assets/1583376/16880365/8ee96370-4abd-11e6-98f6-698cecde77d8.png"></p>
+<img class="centerImage" width="919" alt="Workflow Graphic" src="https://cloud.githubusercontent.com/assets/1583376/16880365/8ee96370-4abd-11e6-98f6-698cecde77d8.png">
 
 ## Collecting GPS Data
 
@@ -26,15 +35,15 @@ GPS data collection can be done offline, although a data plan can help the GPS a
 3. Click the **+** button to start tracking
 4. OSMTracker will say "Waiting for a GPX fix to enable buttons". When it has a fix you will be able to select buttons and the "Accuracy" tab will show an accuracy in meters.
 
-<p style="text-align:center;"><img width=25% alt="GPS Fix" src="https://cloud.githubusercontent.com/assets/1583376/16880418/d1ba55d8-4abd-11e6-9248-e21e43159d84.png"></p>
+<img class="centerImage" width=25% alt="GPS Fix" src="https://cloud.githubusercontent.com/assets/1583376/16880418/d1ba55d8-4abd-11e6-9248-e21e43159d84.png">
 
 5. If you are walking on a road navigable by car select Way --> Service
 
-<p style="text-align:center;"><img width=25% alt="Service" src="https://cloud.githubusercontent.com/assets/1583376/16880420/d1bb582a-4abd-11e6-9342-f8e951d11e44.png"></p>
+<img class="centerImage" width=25% alt="Service" src="https://cloud.githubusercontent.com/assets/1583376/16880420/d1bb582a-4abd-11e6-9342-f8e951d11e44.png">
 
 6. If you are walking on a path select Track --> Footway
 
-<p style="text-align:center;"><img width=25% alt="Footway" src="https://cloud.githubusercontent.com/assets/1583376/16880418/d1ba55d8-4abd-11e6-9248-e21e43159d84.png"></p>
+<img class="centerImage" width=25% alt="Footway" src="https://cloud.githubusercontent.com/assets/1583376/16880418/d1ba55d8-4abd-11e6-9248-e21e43159d84.png">
 
 7. Walk down **the center** of _every_ road and path in the camp. This could take a while!
 8. Every time you reach a junction (where roads / paths come together), press the button for Service / Path to record that junction. This is important for connecting your roads together after.
@@ -43,13 +52,13 @@ photo
 
 10. When you arrive at a toilet, office or other major piece of infrastructure lick the Misc/Amenity/Amenity+ button and select the appropriate feature type. If the type doesn't exist, select "Text Note" and type in the feature information.
 
-<p style="text-align:center;"><img width=25% alt="Toilets" src="https://cloud.githubusercontent.com/assets/1583376/16880423/d1e2cea0-4abd-11e6-91dc-764330d204be.png"></p>
-<p style="text-align:center;"><img width=25% alt="Water etc" src="https://cloud.githubusercontent.com/assets/1583376/16880422/d1bfb6a4-4abd-11e6-922d-83d6b523a861.png"></p>
-<p style="text-align:center;"><img width=25% alt="Text Note" src="https://cloud.githubusercontent.com/assets/1583376/16880424/d1efe1d0-4abd-11e6-93eb-88b9c736ccfb.png"></p>
+<img class="centerImage" width=25% alt="Toilets" src="https://cloud.githubusercontent.com/assets/1583376/16880423/d1e2cea0-4abd-11e6-91dc-764330d204be.png">
+<img class="centerImage" width=25% alt="Water etc" src="https://cloud.githubusercontent.com/assets/1583376/16880422/d1bfb6a4-4abd-11e6-922d-83d6b523a861.png">
+<img class="centerImage" width=25% alt="Text Note" src="https://cloud.githubusercontent.com/assets/1583376/16880424/d1efe1d0-4abd-11e6-93eb-88b9c736ccfb.png">
 
 11. When you're done, press the "Save" button that looks like an old-fashioned floppy disk.
 
-<p style="text-align:center;"><img width=25% alt="Save button" src="https://cloud.githubusercontent.com/assets/1583376/16900169/977c70d6-4c25-11e6-9d8c-9318445b5e47.png"></p>
+<img class="centerImage" width=25% alt="Save button" src="https://cloud.githubusercontent.com/assets/1583376/16900169/977c70d6-4c25-11e6-9d8c-9318445b5e47.png">
 
 ### After data collection : submitting GPS data
 
@@ -58,11 +67,11 @@ Upload the collected data when you're finished collecting. You can do this back 
 1. Select the track you just created.
 2. Go to the options button on the top right
 
-<p style="text-align:center;"><img width=25% alt="Options" src="https://cloud.githubusercontent.com/assets/1583376/16880413/d182c640-4abd-11e6-9f44-9a79fec145a3.png"></p>
+<img class="centerImage" width=25% alt="Options" src="https://cloud.githubusercontent.com/assets/1583376/16880413/d182c640-4abd-11e6-9f44-9a79fec145a3.png">
 
 3. Click "OpenStreetMap Upload"
 
-<p style="text-align:center;"><img width=25% alt="OSM Upload" src="https://cloud.githubusercontent.com/assets/1583376/16880413/d182c640-4abd-11e6-9f44-9a79fec145a3.png"></p>
+<img class="centerImage" width=25% alt="OSM Upload" src="https://cloud.githubusercontent.com/assets/1583376/16880413/d182c640-4abd-11e6-9f44-9a79fec145a3.png">
 
 4. If this is your first time, log in to the UNHCR OSM account (see end of this note for login details).
 
@@ -70,7 +79,7 @@ Upload the collected data when you're finished collecting. You can do this back 
 
 6. Change the sharing setting from Private to Public
 
-<p style="text-align:center;"><img width=25% alt="Data entry and public setting" src="https://cloud.githubusercontent.com/assets/1583376/16880417/d1afc0f0-4abd-11e6-9063-bffff122ae72.png"></p>
+<img class="centerImage" width=25% alt="Data entry and public setting" src="https://cloud.githubusercontent.com/assets/1583376/16880417/d1afc0f0-4abd-11e6-9063-bffff122ae72.png">
 
 7. Click "Save and Upload"
 
@@ -101,11 +110,11 @@ Upload the collected data when you're finished collecting. You can do this back 
 
 **Example Field Papers Atlases**
 
-<img width="919" alt="Field Papers Example 1" src="https://cloud.githubusercontent.com/assets/1583376/16869514/d9346be2-4a85-11e6-8b20-d4d476c69b3e.png">
+<img class="centerImage" width="919" alt="Field Papers Example 1" src="https://cloud.githubusercontent.com/assets/1583376/16869514/d9346be2-4a85-11e6-8b20-d4d476c69b3e.png">
 
-<img width="919" alt="Field Papers Example 2" src="https://cloud.githubusercontent.com/assets/1583376/16869553/0e285a48-4a86-11e6-9278-17dcc18785a7.png">
+<img class="centerImage" width="919" alt="Field Papers Example 2" src="https://cloud.githubusercontent.com/assets/1583376/16869553/0e285a48-4a86-11e6-9278-17dcc18785a7.png">
 
-<img width="919" alt="Field Papers Example 3" src="https://cloud.githubusercontent.com/assets/1583376/16869562/12b068da-4a86-11e6-80bb-f1c40b32e1ba.png">
+<img class="centerImage" width="919" alt="Field Papers Example 3" src="https://cloud.githubusercontent.com/assets/1583376/16869562/12b068da-4a86-11e6-80bb-f1c40b32e1ba.png">
 
 **Example Notebook entries**
 
@@ -203,4 +212,4 @@ Check your email! The mapping team may have questions about words they can't rea
 
 | Username | Password |
 ---------- | -------- |
-| unhcr_attica | unhcr_mapping | 
+| unhcr_attica | unhcr_mapping |
