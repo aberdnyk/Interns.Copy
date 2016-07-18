@@ -165,7 +165,7 @@ Check your email! The mapping team may have questions about words they can't rea
 | Person | Role | Email |
 ---------| ---- | ----- |
 | Robert Banick | Mapping process setup | rbanick@gmail.com |
-| Helen Brown | OpenStreetMap Mapping Intern| hbrown14@gwmail.gwu.edu |
+| Sudie Brown | OpenStreetMap Mapping Intern| hbrown14@gwmail.gwu.edu |
 | Andrii Berdnyk | OpenStreetMap Mapping Intern | aberdnyk@gwu.edu | 
 
 ### Field Papers Atlas Pages
