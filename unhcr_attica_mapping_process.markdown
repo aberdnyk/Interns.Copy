@@ -167,6 +167,7 @@ Check your email! The mapping team may have questions about words they can't rea
 | Robert Banick | Mapping process setup | rbanick@gmail.com |
 | Sudie Brown | OpenStreetMap Mapping Intern| hbrown14@gwmail.gwu.edu |
 | Andrii Berdnyk | OpenStreetMap Mapping Intern | aberdnyk@gwu.edu | 
+| Nuala Cowan | Supervisor / Professor | nuala@gwu.edu | 
 
 ### Field Papers Atlas Pages
 
