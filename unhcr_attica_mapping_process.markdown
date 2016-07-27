@@ -175,8 +175,8 @@ Check your email! The mapping team may have questions about words they can't rea
 ------ | ----------------- |
 | Shisto | http://fieldpapers.org/atlases/66h2lbq7 |
 | Skaramangas |      |
-| Shisto |      |
-| Shisto |      |
+| Makasala |  http://fieldpapers.org/atlases/1mdqjo13     |
+| Myrsinis | http://fieldpapers.org/atlases/21sl3z3p     |
 | Shisto |      |
 | Shisto |      |
 | Shisto |      |
