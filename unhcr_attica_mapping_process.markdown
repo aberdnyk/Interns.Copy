@@ -174,7 +174,7 @@ Check your email! The mapping team may have questions about words they can't rea
 | Camp | Field Papers Page |
 ------ | ----------------- |
 | Shisto | http://fieldpapers.org/atlases/66h2lbq7 |
-| Skaramangas | http://fieldpapers.org/atlases/5m1v3zct    |
+| Skaramangas | http://fieldpapers.org/atlases/3dlq4u12    |
 | Makasala |  http://fieldpapers.org/atlases/1mdqjo13     |
 | Myrsinis | http://fieldpapers.org/atlases/21sl3z3p     |
 | Shisto |      |
